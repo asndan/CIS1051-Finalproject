@@ -4,7 +4,7 @@
 
 A malware tracker using Iteration and Apis
 
-Rasperry Pi project to
+Rasperry Pi project to make my own cloud server or a honeypot (a decoy server to catch hackers) 
 
 Cryptography Cipher Cracker Project 
 
